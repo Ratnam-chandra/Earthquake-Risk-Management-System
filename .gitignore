@@ -1,0 +1,16 @@
+```gitignore
+# C++ compiled files
+*.exe
+*.o
+*.obj
+
+# Debug files
+*.pdb
+*.ilk
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.tmp
+```
